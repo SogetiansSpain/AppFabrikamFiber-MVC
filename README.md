@@ -10,6 +10,8 @@ Este repositorio contiene la solucion Fabrikan de Microsoft adaptada a Visual St
 - IIS Express
 - SQL Server LocalDB
 
-**TUTORIAL MONITORING**
 
-https://www.youtube.com/watch?v=pqZF8LjBh68
+**TUTORIAL MONITORING**
+webapp+sqlserver: https://azuredevopslabs.com/labs/azuredevops/yaml
+
+
