@@ -58,4 +58,3 @@ jobs:
 
         env:
           GITHUB_PAT: ${{ secrets.GH_XY_PAT }}
-          
